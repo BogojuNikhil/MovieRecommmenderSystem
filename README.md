@@ -15,7 +15,7 @@ You can try the live application here:
 
 ## 📸 Application Preview
 
-![Movie Recommender Demo](https://i.imgur.com/2sO2vZT.png)
+![Movie Recommender Demo](./1.png)
 *(**Note**: You should replace the image link above with a high-quality screenshot or GIF of your own application.)*
 
 ---
